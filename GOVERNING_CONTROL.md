@@ -319,9 +319,3 @@ MARKER_STRING: **[DOCUMENT_GOVERNED_INTERACTION_PROTOCOL_V1]**
 
 ---
 
-This is a **clean operating system** now.
-
-When you’re ready, the next *productive* step is no longer governance.
-It’s extraction, rebuild, and creation — with trust restored.
-
-Just say what you want to build next.
